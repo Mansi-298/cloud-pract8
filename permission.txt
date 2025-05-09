@@ -1,0 +1,1 @@
+gcloud projects add-iam-policy-binding cloud-practical1 --member="serviceAccount:cloud-practical1@appspot.gserviceaccount.com" --role="roles/storage.objectAdmin"
